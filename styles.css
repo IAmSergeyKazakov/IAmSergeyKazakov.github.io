@@ -28,6 +28,7 @@ a:hover{
     padding-top: 7px;
 }
 
+
 .hse{
      width: 600px;
 }
@@ -57,6 +58,14 @@ a:hover{
 }
 .bg-last{
     background-color: rgb(236, 165, 165);
+}
+.edu_card{
+    background-color: rgb(240, 192, 192);
+    font-size: 20px;
+}
+
+.univetsity_title{
+    font-size:30px;
 }
 .card{
     padding:15px 20px;
@@ -121,3 +130,5 @@ a:hover{
         display:block;
     }
 }
+
+
